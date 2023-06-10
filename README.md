@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Joaquin 👋
 
 Desarrollador Full Stack en proceso de aprendizaje muy flexible a conocer nuevas tecnologías. Capaz de trabajar tanto de manera independiente como en equipo, y siempre me esfuerzo por ofrecer soluciones creativas y eficientes a los problemas que se presenten. Mis resultados los esfuerzo a un mejor servicio al cliente.
 
