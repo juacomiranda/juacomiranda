@@ -9,7 +9,8 @@ Desarrollador Full Stack en proceso de aprendizaje muy flexible a conocer nuevas
 
 
 ### Esta Semana estuve en:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juacomiranda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juacomiranda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juacomiranda&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/Luciano-C/github-readme-stats)
+
 
 
 
