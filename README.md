@@ -1,5 +1,5 @@
 ### Hola soy Joaquin 👋 <br><br>
-[![LinkedIn](https://img.shields.io/badge/Linkein-0077B5?logo=linkedin)](https://linkedin.com/in/joaquin-miranda-grandon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juacomiranda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/juacomiranda)<br> 
+[![LinkedIn](https://img.shields.io/badge/Linkein-0077B5?logo=linkedin)](https://linkedin.com/in/joaquin-miranda-grandon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juacomiranda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/juacomiranda)<br><br>
 
 Desarrollador Full Stack en proceso de aprendizaje muy flexible a conocer nuevas tecnologías. Capaz de trabajar tanto de manera independiente como en equipo, y siempre me esfuerzo por ofrecer soluciones creativas y eficientes a los problemas que se presenten. Mis resultados los esfuerzo a un mejor servicio al cliente.
 
